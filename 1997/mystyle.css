@@ -1,0 +1,369 @@
+.Página{
+    padding-bottom: 450px;
+}
+
+
+.cabecera {
+    background-image: url('cabecera.jpg');
+    padding: 1cm;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    height: 364px;
+    width: 1400px;
+}
+
+.circulo {
+    padding: 5em;
+    margin-top: 0em;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #b0ffb0;
+    font-family: 'Impact';
+    float: left;
+    margin-left: 20px;
+    
+}
+
+.título{
+    background-color: aliceblue;
+    padding: 5em;
+    width: 30%;
+    height: 7%;
+    float: right;
+    margin-top: 1px;
+    margin-right: 500px ;
+    color: red;
+    text-align: center;
+    font-size: 100%;
+}
+
+.contenedor{
+    padding: 1em;
+    margin: 0 auto;
+    padding-left: 4em;
+    margin-top: -150px;
+    padding-left: 1em;
+}
+
+.párrafo{
+    float:left;
+    width: 60%;
+    height: 30%;
+}
+
+#años{
+    list-style:none;
+    float:right;
+    width: 5%;
+    height: 30%;
+    padding-left: 5em;
+    margin-right: 320px;
+    margin-top: -75px;
+}
+
+#año1{
+    background-color:#ffff81;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año1:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#año2{
+    background-color:#3acc35;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año2:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#año3{
+    background-color:#728af8;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año3:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#año4{
+    background-color:#f8c972;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año4:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#año5{
+    background-color:#ffff81;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año5:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#año6{
+    background-color:#3acc35;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año6:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#año7{
+    background-color:#728af8;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año7:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#año8{
+    background-color:#f8c972;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año8:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#año9{
+    background-color:#ffff81;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año9:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#año10{
+    background-color:#3acc35;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#año10:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+.Equipos{
+    background-image: url('cabecera.jpg');
+    padding: 1cm;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    height: 364px;
+    width: 1400px;
+}
+
+.Título2{
+    background-color: black;
+    color: greenyellow;
+    padding: 1em;
+    width: 30%;
+    height: 7%;
+    text-align: center;
+    margin-left: 15%;
+    
+}
+
+img{
+    margin-top: -200px;
+}
+
+#años2{
+    list-style:none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    width: 60%;
+    
+}
+
+#Equipo1{
+    background-color:rgb(252, 156, 204);
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#Equipo1:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#Equipo2{
+    background-color:#c1c3c5;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#Equipo2:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#Equipo3{
+    background-color:rgb(179, 121, 255);
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#Equipo3:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#Equipo4{
+    background-color:#ffffff;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#Equipo4:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#Equipo5{
+    background-color:rgb(252, 156, 204);
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#Equipo5:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#Equipo6{
+    background-color:#c1c3c5;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#Equipo6:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#Equipo7{
+    background-color:rgb(179, 121, 255);
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#Equipo7:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
+#Equipo8{
+    background-color:#ffffff;
+    padding: 1em;
+    margin-left: -2em;
+    text-align: center;
+}
+
+#Equipo8:hover{
+    background-color:#3b3b3b;
+    color: white;
+    padding: 1em;
+    text-align: center;
+
+}
+
